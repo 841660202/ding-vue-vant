@@ -1,24 +1,11 @@
-# vue-test
+<!--
+ * @version: v0.0.1
+ * @Author: hailong.chen
+ * @Date: 2019-10-11 12:44:40
+ * @LastEditors: hailong.chen
+ * @LastEditTime: 2019-10-11 21:02:47
+ * @Descripttion: 
+ -->
+[vue 项目命令](./docs/vue-cli3.md)
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[问题及解决](./docs/problem.md)

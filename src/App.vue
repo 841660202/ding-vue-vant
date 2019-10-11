@@ -1,11 +1,21 @@
+<!--
+ * @version: v0.0.1
+ * @Author: hailong.chen
+ * @Date: 2019-10-11 12:44:15
+ * @LastEditors: hailong.chen
+ * @LastEditTime: 2019-10-11 15:50:47
+ * @Descripttion:
+ -->
 <template>
-  <div id="app">
-    <div id="nav">
+  <!-- <div id="app"> -->
+    <!-- <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+      <router-link to="/about">About</router-link>|
+      <router-link to="/tabs">tabs</router-link>
+    </div> -->
+    <!-- <van-number-keyboard safe-area-inset-bottom /> -->
     <router-view/>
-  </div>
+  <!-- </div> -->
 </template>
 
 <style>
